@@ -1,0 +1,13 @@
+{
+  "weights": {
+    "role": 40,
+    "seniority": 25,
+    "location": 20,
+    "keywords": 15
+  },
+  "thresholds": {
+    "high": 80,
+    "medium": 60,
+    "low": 0
+  }
+}

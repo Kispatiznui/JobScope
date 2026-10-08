@@ -1,0 +1,16 @@
+{
+  "name": "default",
+  "target_roles": [
+    "backend developer",
+    "python developer",
+    "software engineer"
+  ],
+  "target_seniority": [
+    "junior",
+    "entry level"
+  ],
+  "preferred_locations": [
+    "remote",
+    "colombia"
+  ]
+}

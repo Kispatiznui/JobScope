@@ -1,0 +1,22 @@
+{
+  "sources": {
+    "remoteok": {
+      "enabled": true
+    },
+    "remotive": {
+      "enabled": true
+    },
+    "arbeitnow": {
+      "enabled": true
+    },
+    "adzuna": {
+      "enabled": false
+    },
+    "themuse": {
+      "enabled": false
+    },
+    "hackernews": {
+      "enabled": false
+    }
+  }
+}
